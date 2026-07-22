@@ -1,5 +1,7 @@
 # WriteFlow - SaaS 랜딩 페이지
 
+[한국어](#writeflow---saas-랜딩-페이지) · [English](#english)
+
 AI 기반 글쓰기 어시스턴트인 "WriteFlow"를 위한 모던하고 반응형이며 웹 접근성이 뛰어난 랜딩 페이지입니다. **Next.js**, **Tailwind CSS v4**, **Framer Motion**으로 제작되었습니다.
 
 ## 🚀 기능 (Features)
@@ -31,3 +33,33 @@ AI 기반 글쓰기 어시스턴트인 "WriteFlow"를 위한 모던하고 반응
 
 ## 📜 라이선스
 이 프로젝트는 데모(시연) 목적으로 제작되었습니다.
+
+---
+
+## English
+
+WriteFlow is a modern, responsive, and accessible landing-page demo for an AI writing assistant. It is built with Next.js, Tailwind CSS v4, and Framer Motion.
+
+### Features
+
+- Animated hero section with a custom product mockup
+- Staggered feature grid with Lucide icons
+- Monthly and yearly pricing toggle with a highlighted plan
+- Animated FAQ accordion
+- Responsive layouts for mobile, tablet, and desktop
+
+### Tech stack
+
+- Next.js App Router and React 19
+- Tailwind CSS v4
+- Framer Motion
+- Lucide React
+
+### Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000). This project is intended for demonstration purposes.
