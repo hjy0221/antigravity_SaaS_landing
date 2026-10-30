@@ -1,6 +1,59 @@
 # WriteFlow - SaaS 랜딩 페이지
 
-[한국어](#writeflow---saas-랜딩-페이지) · [English](#english)
+[日本語](https://github.com/hjy0221/antigravity_SaaS_landing#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/antigravity_SaaS_landing#english) · [한국어](https://github.com/hjy0221/antigravity_SaaS_landing#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
+## 日本語
+
+WriteFlow は AI ライティングアシスタントのための、レスポンシブでアクセシブルなランディングページのデモです。
+
+### 機能
+
+- アニメーション付きヒーローと製品モックアップ
+- Lucide アイコンを使った機能グリッド
+- 月額・年額の料金切り替え
+- アニメーション付き FAQ
+- モバイル、タブレット、デスクトップ対応
+
+Next.js App Router、React 19、Tailwind CSS v4、Framer Motion、Lucide React を使用しています。
+
+### 開始方法
+
+```bash
+npm install
+npm run dev
+```
+
+[http://localhost:3000](http://localhost:3000) を開きます。このプロジェクトはデモ目的です。
+
+## English
+
+WriteFlow is a modern, responsive, and accessible landing-page demo for an AI writing assistant. It is built with Next.js, Tailwind CSS v4, and Framer Motion.
+
+### Features
+
+- Animated hero section with a custom product mockup
+- Staggered feature grid with Lucide icons
+- Monthly and yearly pricing toggle with a highlighted plan
+- Animated FAQ accordion
+- Responsive layouts for mobile, tablet, and desktop
+
+### Tech stack
+
+- Next.js App Router and React 19
+- Tailwind CSS v4
+- Framer Motion
+- Lucide React
+
+### Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000). This project is intended for demonstration purposes.
+
+## 한국어
 
 AI 기반 글쓰기 어시스턴트인 "WriteFlow"를 위한 모던하고 반응형이며 웹 접근성이 뛰어난 랜딩 페이지입니다. **Next.js**, **Tailwind CSS v4**, **Framer Motion**으로 제작되었습니다.
 
@@ -33,33 +86,3 @@ AI 기반 글쓰기 어시스턴트인 "WriteFlow"를 위한 모던하고 반응
 
 ## 📜 라이선스
 이 프로젝트는 데모(시연) 목적으로 제작되었습니다.
-
----
-
-## English
-
-WriteFlow is a modern, responsive, and accessible landing-page demo for an AI writing assistant. It is built with Next.js, Tailwind CSS v4, and Framer Motion.
-
-### Features
-
-- Animated hero section with a custom product mockup
-- Staggered feature grid with Lucide icons
-- Monthly and yearly pricing toggle with a highlighted plan
-- Animated FAQ accordion
-- Responsive layouts for mobile, tablet, and desktop
-
-### Tech stack
-
-- Next.js App Router and React 19
-- Tailwind CSS v4
-- Framer Motion
-- Lucide React
-
-### Getting started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000). This project is intended for demonstration purposes.
