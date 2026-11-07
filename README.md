@@ -4,54 +4,71 @@
 
 ## 日本語
 
-WriteFlow は AI ライティングアシスタントのための、レスポンシブでアクセシブルなランディングページのデモです。
+AIベースの書き込みアシスタント「WriteFlow」のためのモダンでレスポンシブで、Webアクセシビリティに優れたランディングページです。 **Next.js**、**Tailwind CSS v4**、**Framer Motion**で作成されました。
 
-### 機能
+## 🚀機能(Features)
 
-- アニメーション付きヒーローと製品モックアップ
-- Lucide アイコンを使った機能グリッド
-- 月額・年額の料金切り替え
-- アニメーション付き FAQ
-- モバイル、タブレット、デスクトップ対応
+- **美しいヒーローセクション**：スムーズな登場アニメーションとカスタムCSS / HTMLモックアップ（Mock UI）グラフィック。
+- **機能(Features)グリッド**: Lucide Reactアイコンを活用した時間差(staggered)スプリングアニメーション。
+- **インタラクティブプラン（Pricing）**：毎月/年間プランを切り替えることができるスムーズな動作のトグルスイッチと強調された人気（Popular）プラン機能。
+- **FAQアコーディオン**：スムーズな展開と折りたたみアニメーションのために`framer-motion`の`AnimatePresence`を使用して構築。
+- **完全なレスポンシブ**：Tailwind CSSユーティリティクラスを使用して、モバイル、タブレット、デスクトップ環境に合わせて最適化されています。
 
-Next.js App Router、React 19、Tailwind CSS v4、Framer Motion、Lucide React を使用しています。
+## 🛠技術スタック
 
-### 開始方法
+- **フレームワーク**: [Next.js App Router](https://nextjs.org/) (React 19)
+- **スタイリング**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **アニメーション**: [Framer Motion](https://www.framer.com/motion/)
+- **アイコン**: [Lucide React](https://lucide.dev/)
 
-```bash
-npm install
-npm run dev
-```
+## 🏃‍♂️はじめに
 
-[http://localhost:3000](http://localhost:3000) を開きます。このプロジェクトはデモ目的です。
+1. **依存性パッケージのインストール:**
+   ```bash
+   npm install
+   ```
+2. **開発サーバーの実行:**
+   ```bash
+   npm run dev
+   ```
+3. ブラウザで[http://localhost:3000](http://localhost:3000)アドレスにアクセスして結果を確認します。
+
+## 📜ライセンス
+このプロジェクトはデモ（デモンストレーション）目的で作成されました。
 
 ## English
 
-WriteFlow is a modern, responsive, and accessible landing-page demo for an AI writing assistant. It is built with Next.js, Tailwind CSS v4, and Framer Motion.
+A modern, responsive, and web-accessible landing page for “WriteFlow,” an AI-based writing assistant. Built with **Next.js**, **Tailwind CSS v4**, and **Framer Motion**.
 
-### Features
+## 🚀 Features
 
-- Animated hero section with a custom product mockup
-- Staggered feature grid with Lucide icons
-- Monthly and yearly pricing toggle with a highlighted plan
-- Animated FAQ accordion
-- Responsive layouts for mobile, tablet, and desktop
+- **Beautiful Hero Section**: Smooth entrance animations and custom CSS/HTML mockup (Mock UI) graphics.
+- **Features Grid**: Staggered spring animation using Lucide React icons.
+- **Interactive Pricing**: Smooth-action toggle switch to switch between monthly/annual pricing plans and highlighted Popular plan features.
+- **FAQ Accordion**: Built using `AnimatePresence` by `framer-motion` for smooth expand and collapse animations.
+- **Fully Responsive**: Optimized for mobile, tablet, and desktop environments using Tailwind CSS utility classes.
 
-### Tech stack
+## 🛠 Technology Stack
 
-- Next.js App Router and React 19
-- Tailwind CSS v4
-- Framer Motion
-- Lucide React
+- **Framework**: [Next.js App Router](https://nextjs.org/) (React 19)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animation**: [Framer Motion](https://www.framer.com/motion/)
+- **Icon**: [Lucide React](https://lucide.dev/)
 
-### Getting started
+## 🏃‍♂️ Getting started
 
-```bash
-npm install
-npm run dev
-```
+1. **Install dependency packages:**
+   ```bash
+   npm install
+   ```
+2. **Run development server:**
+   ```bash
+   npm run dev
+   ```
+3. Access the address [http://localhost:3000](http://localhost:3000) in your browser and check the results.
 
-Open [http://localhost:3000](http://localhost:3000). This project is intended for demonstration purposes.
+## 📜 License
+This project was created for demonstration purposes.
 
 ## 한국어
 
