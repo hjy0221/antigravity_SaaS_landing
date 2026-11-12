@@ -4,6 +4,8 @@
 
 ## 日本語
 
+[日本語](https://github.com/hjy0221/antigravity_SaaS_landing#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/antigravity_SaaS_landing#english) · [한국어](https://github.com/hjy0221/antigravity_SaaS_landing#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 AIベースの書き込みアシスタント「WriteFlow」のためのモダンでレスポンシブで、Webアクセシビリティに優れたランディングページです。 **Next.js**、**Tailwind CSS v4**、**Framer Motion**で作成されました。
 
 ## 🚀機能(Features)
@@ -38,6 +40,8 @@ AIベースの書き込みアシスタント「WriteFlow」のためのモダン
 
 ## English
 
+[日本語](https://github.com/hjy0221/antigravity_SaaS_landing#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/antigravity_SaaS_landing#english) · [한국어](https://github.com/hjy0221/antigravity_SaaS_landing#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 A modern, responsive, and web-accessible landing page for “WriteFlow,” an AI-based writing assistant. Built with **Next.js**, **Tailwind CSS v4**, and **Framer Motion**.
 
 ## 🚀 Features
@@ -71,6 +75,8 @@ A modern, responsive, and web-accessible landing page for “WriteFlow,” an AI
 This project was created for demonstration purposes.
 
 ## 한국어
+
+[日本語](https://github.com/hjy0221/antigravity_SaaS_landing#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/antigravity_SaaS_landing#english) · [한국어](https://github.com/hjy0221/antigravity_SaaS_landing#%ED%95%9C%EA%B5%AD%EC%96%B4)
 
 AI 기반 글쓰기 어시스턴트인 "WriteFlow"를 위한 모던하고 반응형이며 웹 접근성이 뛰어난 랜딩 페이지입니다. **Next.js**, **Tailwind CSS v4**, **Framer Motion**으로 제작되었습니다.
 
